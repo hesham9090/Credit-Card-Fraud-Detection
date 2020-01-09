@@ -1,5 +1,7 @@
 # Credit-Card-Fraud-Detection
 
+# We will use machine learning algorithms on top of Big Data Spark System
+
 
 Tasks:
 
