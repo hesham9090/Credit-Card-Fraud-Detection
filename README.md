@@ -18,3 +18,6 @@ Dataset:
 
 Kaggle website: https://www.kaggle.com/mlg-ulb/creditcardfraud#creditcard.csv
 
+Note :
+You can download Credit_Card_Fraud_Detection.html file to view all graphs and plots
+
